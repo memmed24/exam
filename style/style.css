@@ -1,0 +1,14 @@
+body{
+
+}
+
+.select{
+	border-radius: 5px;
+	padding: 5px 15px;
+	padding-right: 25px;
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-top: 25px;
+    background: url("http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png") no-repeat right center;
+}
